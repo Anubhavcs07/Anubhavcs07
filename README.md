@@ -1,7 +1,11 @@
-- 👋 Hi, I’m @Anubhavcs07
-- 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning HTML, CSS, TypeScript, Angular, NodeJS, MongoDB and CI/CD
-- 💞️ I’m looking to collaborate on projects using above tech
+- 👋 Hi, I’m Anubhav Sharma
+- 👀 I’m a Full Stack Developer doing it for multiple programming languages and a QA Automation testing engineer
+- 🌱 I’m currently working on HTML, CSS, JS, Angular2+(v 8+), Node.js, AWS Lambda, EC2, SES, SNS, WAF, API Gateway, DynamoDB, MongoDB, MSSQL, Oracle, dotNet, Azure Release Pipleine, Terraform for Lambda Deployment, YAML, Docker and Kubernetes as a full stack web developer.
+As a QA tester Automation I've worked on 
+  - Python Selenium, Robot Framework, Appium, Allure Reporting tools, BDD, Saucelab, Jenkins, JIRA.
+  - JavaScript WebDriverIO, Selenium, Cypress, Mocha, Chai, Cucumber, Protactor, Postman API and Jasmine.
+  - Java Appium, Selenium, Cucumber and BDD.
+- 💞️ I’m looking to collaborate or to work on on projects having above mentioned technologies and also open to work on any new one as well.
 - 📫 How to reach me anubhavcs07@gmail.com
 
 <!---
