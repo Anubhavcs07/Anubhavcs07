@@ -1,14 +1,26 @@
 - 👋 Hi, I’m Anubhav Sharma
-- 👀 I’m a Full Stack Developer doing it for multiple programming languages and a QA Automation testing engineer
-- 🌱 I’m currently working on Angular2+(v 8+), Node.js, AWS Lambda, EC2, SES, SNS, WAF, API Gateway, DynamoDB, MongoDB, MSSQL, Oracle, dotNet, Azure Release Pipleine, Terraform for Lambda Deployment, YAML, Docker and Kubernetes as a full stack web developer.
+- 👀 I am a QA Automation Engineer with over 7 years of experience specializing in UI, API, and performance testing, delivering robust and scalable test solutions to ensure software quality and reliability.
 As a QA tester Automation I've worked on 
-  - Python Selenium, Robot Framework, Appium, Allure Reporting tools, BDD, Saucelab, Jenkins, JIRA.
-  - JavaScript WebDriverIO, Selenium, Cypress, Mocha, Chai, Cucumber, Protactor, Postman API and Jasmine.
-  - Java Appium, Selenium, Cucumber and BDD.
+  - UI Automation - python, pytest, selenium webdriver, selenium grid, BBD- Behave/ Cucumber, Appium
+  - API Automation - Postman, TOSCA, Newmann, AWS Cloudwatch
+  - Microservices contract testing - pact
+  - Performance Testing - Locust, JMeter, K6, lighthouse
+  - CI/CD - Jenkins, Docker
 - 💞️ I’m looking to collaborate or to work on on projects having above mentioned technologies and also open to work on any new one as well.
 - 📫 How to reach me anubhavcs07@gmail.com
-
-<!---
-Anubhavcs07/Anubhavcs07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Also I'm learning penetration testing as well. For this I'm learning
+  **Network Scanning tool**
+    - nmap
+  **Vulnerability Assessment tool**
+    - Nessus
+  **Web application penetration Testing**
+    - Burpsuite
+  **Exploitation Framework**
+    - Metasploit Framework
+  **Wireless Network Testin**
+    - Aircrack-ng
+    - Wireshark
+ **Passwor Cracking**
+    - John the ripper
+    - Hashcat
+    - Hydra
