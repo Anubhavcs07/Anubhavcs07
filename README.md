@@ -9,18 +9,10 @@ As a QA tester Automation I've worked on
 - 💞️ I’m looking to collaborate or to work on on projects having above mentioned technologies and also open to work on any new one as well.
 - 📫 How to reach me anubhavcs07@gmail.com
 Also I'm learning penetration testing as well. For this I'm learning
-  **Network Scanning tool**
-    - nmap
-  **Vulnerability Assessment tool**
-    - Nessus
-  **Web application penetration Testing**
-    - Burpsuite
-  **Exploitation Framework**
-    - Metasploit Framework
-  **Wireless Network Testin**
-    - Aircrack-ng
-    - Wireshark
- **Passwor Cracking**
-    - John the ripper
-    - Hashcat
-    - Hydra
+
+  **Network Scanning tool** - nmap
+  **Vulnerability Assessment tool** - Nessus
+  **Web application penetration Testing** - Burpsuite
+  **Exploitation Framework** - Metasploit Framework
+  **Wireless Network Testin** - Aircrack-ng - Wireshark
+ **Passwor Cracking** - John the ripper - Hashcat - Hydra
